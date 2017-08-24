@@ -1,9 +1,9 @@
 ---
 layout: frontpage
-title: Mathematics for Political Science
+title: GU4700
 ---
 
-## Mathematics for Political Science: GU4700 and POLSW4700
+## POLS GU4700: Math Methods for Political Science
 
 * Lectures: 4:10-5:25pm on Mondays & Wednesdays, Room 825 in the Seeley W. Mudd Building.
 * Exercise sessions: to be determined.
