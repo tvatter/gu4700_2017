@@ -6,7 +6,7 @@ title: Syllabus
 * Lectures: 4:10-5:25pm on Mondays & Wednesdays, Room 825 in the Seeley W. Mudd Building.
 * Exercise sessions: to be determined.
 * Instructor: [Thibault Vatter](https://tvatter.github.io), [tv2233@columbia.edu](tv2233@columbia.edu)
-* TA: [Thomas Leavitt](http://polisci.columbia.edu/people/profile/1500), [tl2624@columbia.edu](tl2624@columbia.edu)
+* TA: [Thomas Leavitt](https://polisci.columbia.edu/content/tom-leavitt), [tl2624@columbia.edu](tl2624@columbia.edu)
 
 This course introduces students to (i) basic mathematical tools frequently used in political science and (ii) approaches to mathematical proofs. The course, or knowledge of the mathematics taught, is a prerequisite for the advanced statistics (POLS 4912) and formal modeling courses (POLS 4210). 
 
