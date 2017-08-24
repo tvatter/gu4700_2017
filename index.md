@@ -9,3 +9,8 @@ title: Mathematics for Political Science
 * Exercise sessions: to be determined.
 * Instructor: [Thibault Vatter](https://tvatter.github.io), [tv2233@columbia.edu](tv2233@columbia.edu)
 * TA: [Thomas Leavitt](http://polisci.columbia.edu/people/profile/1500), [tl2624@columbia.edu](tl2624@columbia.edu)
+
+### News
+
+Please fill [this form](https://docs.google.com/forms/d/1n9XiMDfVfWdfMgDj_cttIaf7iCnED_zjUaksYo_RQe0) to determine the section times that fit your schedule best.
+
