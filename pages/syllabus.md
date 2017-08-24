@@ -33,7 +33,7 @@ If you have a disability or a medical condition that requires special accommodat
 
 No prior knowledge of calculus or linear algebra is necessary. However, students are assumed to have a firm command of basic high school algebra. If your foundational mathematical skills are weak, this class will be very difficult and frustrating for you.
 
-### Prerequisites
+### Textbooks
 
 No mandatory textbook, all the material will be provided.
 
