@@ -17,13 +17,11 @@ The course has two equally important components:
 
 ### Grading
 
-* Homework assignments (20%). 
-* Midterm exam (40%).
-* Final exam (40%).
+* Homework assignments (40%). 
+* Midterm exam (30%).
+* Final exam (30%).
 
-I recommend you work on your own and only consult your friends or us if you get stuck. In any case, you must write your own solutions. I will hand out six problem sets.
-
-If your performance in the final is significantly better than in the midterm, I will give a higher weight on the final than on the midterm. This policy rewards improved performance over the duration of the class.
+I recommend you work on your own and only consult your friends or us if you get stuck. In any case, you must write your own solutions. I will hand out eight problem sets.
 
 Your final grade may be anywhere between an F and an A+, depending exclusively on how well you perform in the problem sets and exams. The final grade for this class is based on academic performance only. I will absolutely not consider your degree requirements or the implications of a low grade for your academic or professional future. If you are not willing to accept this grading policy, then you should not enroll in this class. Grade appeals are only considered based on clear, documented errors in grading. All other grade appeals are automatically rejected.
 
