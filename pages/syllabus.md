@@ -40,18 +40,35 @@ No mandatory textbook, all the material will be provided.
 This is a **TENTATIVE** schedule for the course. The exact dates for each topic 
 will depend on progress and integration may start before the midterm.
 
-* Befor Midterm
-  * **Linear Algebra.** Matrices; matrix operations; inverses
-of matrices; solutions to systems of linear equations.
-  * **Differential Calculus.** Sequences and limits; continuity;
-differentiability; derivatives; functions and correspondences.
+* Before Midterm
+  * **Linear Algebra**
+    * System of linear equations
+    * Matrix algebra
+    * Vector spaces
+    * Eigenvalues and eigenvectors
+    * Orthogonality and least squares
+    * Symmetric matrices and quadratic forms
+  * **Differential Calculus**
+    * Functions and limits
+    * Continuity
+    * Derivatives
+    * Analysis of functions
+    * Multivariate calculus
 * After Midterm
-  * **Integration.** Concept of integral; common integrals; integration
-by parts.
-  * **Optimization.** Unconstrained optimization; first and second order conditions;
-Constrained optimization; Karush–Kuhn–Tucker conditions.
-  * **Probability and statistics.** Elements of combinatorics and probabilities; random variables; limits of variable random variables; descriptive statistics; statistical inference.
-
+  * **Integration** 
+    * Concept of integral
+    * Integration techniques
+  * **Optimization**
+    * Unconstrained optimization
+    * Linear programming
+    * Convex optimization
+  * **Probability and statistics.**
+    * Combinatorics and probabilities
+    * Random variables and vectors
+    * Stochastic convergence
+    * Statistical inference
+    * Hypothesis testing
+   
 ### Office Hours
 
-To be determined.
+By appointment only.
